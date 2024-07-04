@@ -1,4 +1,4 @@
-<div align="center"><b><font face="Times New Roman">1. Cambiar de base de datos de h2 a una relacional</font></b></div>
+<div align="center"><b><font face="Times New Roman">Cambiar de base de datos de h2 a una relacional</font></b></div>
 
 1 agregué la dependencia de la nueva(sqlplus) base de datos al pom.xml
 
