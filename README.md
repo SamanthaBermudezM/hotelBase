@@ -1,4 +1,4 @@
-<div align="center"><b>CAMBIAR DE BASE DE DATOS DE H2 A UNA RELACIONAL</b></div>
+<div align="center"><font color=#FF00FF><b>1. Cambiar de base de datos de h2 a una relacional</b></font></div>
 
 1 agregué la dependencia de la nueva(sqlplus) base de datos al pom.xml
 
